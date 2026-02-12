@@ -1,0 +1,10 @@
+# SQL/dbt
+target/
+dbt_packages/
+dbt_modules/
+logs/
+*.log
+.env
+.DS_Store
+.idea/
+.vscode/
